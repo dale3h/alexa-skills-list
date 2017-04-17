@@ -27,7 +27,7 @@ A webcam which is retrofitted into a regular cap is connected to the Raspberry P
 When the user asks Alexa to describe the scene, the Alexa Skills Kit triggers Amazon Lambda function to fetch the data from the database (DynamoDB). The correct text is the played as an audio on the Alexa device.
 
 
-#Testing instructions
+# Testing instructions
 1. Speak to Amazon Echo - "Alexa start smart cap" (you should hear the response as: "Sure, You can ask me to describe the scene")
 2. Speak to Amazon Echo - "Alexa ask smart cap" -wait- "describe the scene"" (you should hear the response as: "No data received from device in past one minute"). This makes sure that the Alexa skills kit and dynamoDb are working as expected.
 3. Get the userId. Speak to Amazon Echo - "Alexa ask smart cap to get the user info" (you should hear a long code)

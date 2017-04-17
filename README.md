@@ -10764,7 +10764,7 @@ Discover information about the latest creatures from Magic: The Gathering skill 
 
 *Alexa, ask shark week for a fact.*
 
-#SharkWeek returns early this year, Sunday June 26th at 8/7c! Ask Alexa for shark facts, a countdown for when shark week begins, and more!
+# SharkWeek returns early this year, Sunday June 26th at 8/7c! Ask Alexa for shark facts, a countdown for when shark week begins, and more!
 
 ***
 

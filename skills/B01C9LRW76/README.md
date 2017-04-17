@@ -9,7 +9,7 @@ To use the D.C. Tech Cal skill, try saying...
 
 Read the latest Washington DC tech news and events from www.dctechcal.com.
 Say: "Alexa ask D.C. Tech for news" or "Alexa, ask D.C. Tech for events"
-#dctech
+# dctech
 
 ***
 
